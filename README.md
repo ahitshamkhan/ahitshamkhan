@@ -14,14 +14,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
 name:       Ahitsham Khan
 username:   ahitshamkhan
 location:   Pakistan 🇵🇰
 degree:     BS Software Engineering
-cgpa:       3.8+ / 4.0
 
 focus:
   - Full-Stack Web Development (MERN Stack)
@@ -30,28 +29,28 @@ focus:
   - Open Source Contributions
 
 currently:
-  - 🔨 Building scalable MERN stack applications
-  - 🤖 Exploring AI tools & advanced models
-  - 📚 Contributing to open source projects
-  - 💡 Learning advanced system design
+  - Building scalable MERN stack applications
+  - Exploring AI tools & advanced models
+  - Contributing to open source projects
+  - Learning advanced system design
 
 goal: "Build innovative solutions that impact millions globally"
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages & Markup
+### Languages & Markup
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🚀 Frameworks & Libraries
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -59,7 +58,7 @@ goal: "Build innovative solutions that impact millions globally"
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🗄️ Databases & Tools
+### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -71,7 +70,7 @@ goal: "Build innovative solutions that impact millions globally"
 
 ---
 
-## 📊 GitHub Metrics
+## GitHub Metrics
 
 <div align="center">
 
@@ -94,7 +93,7 @@ goal: "Build innovative solutions that impact millions globally"
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -107,7 +106,7 @@ goal: "Build innovative solutions that impact millions globally"
 
 ---
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -119,7 +118,7 @@ goal: "Build innovative solutions that impact millions globally"
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -132,13 +131,13 @@ goal: "Build innovative solutions that impact millions globally"
 
 ---
 
-## 💼 Professional Summary
+## Professional Summary
 
-- 💻 Full-Stack Developer with expertise in MERN stack
-- 🤖 Passionate about AI/ML and emerging technologies
-- 🔧 DevOps enthusiast with Docker & Kubernetes experience
-- 📖 Continuous learner and open source contributor
-- 🎯 Problem solver focused on scalable solutions
+- Full-Stack Developer with expertise in MERN stack
+- Passionate about AI/ML and emerging technologies
+- DevOps enthusiast with Docker & Kubernetes experience
+- Continuous learner and open source contributor
+- Problem solver focused on scalable solutions
 
 ---
 
