@@ -92,7 +92,7 @@ goal: "Build innovative solutions that impact millions globally"
 | Metric | Value |
 |--------|-------|
 | 💻 Total Repositories | 20+ |
-| 🌟 GitHub Stars | 100+ |
+| 🌟 GitHub Stars | 1 |
 | 🔥 Contributions | 500+ commits |
 | 📚 Languages | 8+ |
 
