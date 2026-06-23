@@ -79,7 +79,7 @@ goal: "Build innovative solutions that impact millions globally"
 | 🛒 [E-Commerce-MERN](https://github.com/ahitshamkhan/E-Commerce-MERN) | Full-stack e-commerce platform | React, Node.js, MongoDB |
 | 💬 [AI-Chat-Bot](https://github.com/ahitshamkhan/AI-Chat-Bot) | Intelligent chatbot with AI capabilities | Python, ML, NLP |
 | 🎨 [Portfolio-Website](https://github.com/ahitshamkhan/Portfolio-Website) | Personal portfolio showcase | React, Tailwind CSS |
-| ✅ [Task-Manager](https://github.com/ahitshamkhan/Task-Manager) | Productive task management app | MERN Stack |
+| ✅ [Food-waste-app](https://github.com/ahitshamkhan/Task-Manager) | Productive task management app | MERN Stack |
 
 </div>
 
