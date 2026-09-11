@@ -11,6 +11,3 @@
 [![Profile views](https://komarev.com/ghpvc/?username=ahitshamkhan&color=58A6FF&style=flat)](https://github.com/ahitshamkhan)
 
 </div>
-
----
-
