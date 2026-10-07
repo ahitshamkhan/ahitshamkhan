@@ -5,9 +5,4 @@
 
 <br/>
 
-<!-- Social badges -->
-[![GitHub followers](https://img.shields.io/github/followers/ahitshamkhan?label=Followers&style=social)](https://github.com/ahitshamkhan)
-&nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=ahitshamkhan&color=58A6FF&style=flat)](https://github.com/ahitshamkhan)
-
 </div>
